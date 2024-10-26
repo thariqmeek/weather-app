@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Steps to Get Started
+
+1. **Navigate to the project directory**:
+   ```bash
+   cd weather-app
+   ```
+   npm install axios
+
 ## Available Scripts
 
 In the project directory, you can run:
