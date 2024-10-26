@@ -7,6 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1. **Navigate to the project directory**:
    ```bash
    cd weather-app
+   Note: npm install --> helps to install node_modules folder
    ```
    npm install axios
 
